@@ -1,2 +1,2 @@
 # wdl-tech-moguls
-World Data League | Tech Moguls Team
+World Data League - Solving problems using Data Science 2021 | Tech Moguls Team
